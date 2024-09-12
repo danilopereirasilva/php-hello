@@ -1,0 +1,11 @@
+{
+    "name": "danilo/php-hello",
+    "description": "teste repo satis",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Danilo\\PhpHello\\": "src/"
+        }
+    },
+    "require": {}
+}
